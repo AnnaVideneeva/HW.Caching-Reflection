@@ -1,4 +1,4 @@
-# HW.Caching-Reflection
+# HW.Caching_Reflection
 ## Reflection
 Generic equality comparer based on reflection. Must compare two objects and return true or false. Here are some requirements:
 1.	Generic
